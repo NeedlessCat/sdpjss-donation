@@ -2,7 +2,7 @@ import express from "express";
 import jwt from "jsonwebtoken";
 import userModel from "../models/userModel.js";
 import noticeModel from "../models/noticeModel.js";
-import donationModel from "../models/DonationModel.js";
+import donationModel from "../models/donationModel.js";
 import khandanModel from "../models/khandanModel.js";
 import donationCategoryModel from "../models/donationCategoryModel.js";
 

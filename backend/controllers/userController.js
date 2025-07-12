@@ -3,7 +3,7 @@ import bcrypt from "bcrypt";
 import crypto from "crypto";
 import nodemailer from "nodemailer";
 import userModel from "../models/userModel.js";
-import donationModel from "../models/DonationModel.js";
+import donationModel from "../models/donationModel.js";
 import jwt from "jsonwebtoken";
 import { v2 as cloudinary } from "cloudinary";
 import razorpay from "razorpay";
