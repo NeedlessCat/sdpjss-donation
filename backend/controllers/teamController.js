@@ -1,7 +1,7 @@
 import { v2 as cloudinary } from "cloudinary";
 import fs from "fs";
 import mongoose from "mongoose";
-import teamMemberModel from "../models/TeamMemberModel.js";
+import teamMemberModel from "../models/teamMemberModel.js";
 
 // // Configure Cloudinary
 // cloudinary.config({
